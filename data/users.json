@@ -1,0 +1,22 @@
+[
+    {
+        "name": "agarcia5",
+        "address": "Paunero 538 Timbre Medio",
+        "age": "31",
+        "phone": "+541161111611",
+        "avatar": "http://pepe.com",
+        "username": "alvarogarciainfo6@gmail.com",
+        "password": "Enero.12",
+        "id": 1
+    },
+    {
+        "name": "agarcia",
+        "address": "al;ksjdalksjd",
+        "age": "43",
+        "phone": "+541161111611",
+        "avatar": "http://pepe.com",
+        "username": "alvarogarciainfo@gmail.com",
+        "password": "12345678",
+        "id": 2
+    }
+]
