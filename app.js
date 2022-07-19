@@ -22,12 +22,12 @@ app.use(
   session({
     store: MongoStore.create({
       mongoUrl: process.env.MONGO,
-     // mongoOptions: adavancedOptions,
+      mongoOptions: adavancedOptions,
     }),
     cookie: { maxAge: 10 * 60 * 1000 },   
     secret: "SuperSecret",
     rolling: true,
-    resave: false,
+    resave: true,
     saveUninitialized: false,
   })
 );
