@@ -30,3 +30,8 @@ npm run start
 * [Moment.js :stopwatch:](https://momentjs.com)
 * [Fs](https://nodejs.org/api/fs.html)
 * [Normalizr](https://github.com/paularmstrong/normalizr)
+* [Dot-Env](https://www.npmjs.com/package/dotenv)
+* [Passport](https://www.npmjs.com/package/passport)
+* [Passport-Local](https://www.npmjs.com/package/passport-local)
+* [Faker](https://www.npmjs.com/package/@faker-js/faker)
+* [Socket.io](https://www.npmjs.com/package/socket.io)
